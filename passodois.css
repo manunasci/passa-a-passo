@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2? família=Lagosta&família=Shadows+Into+Light&display=swap');
+body{
+    background-color: black;
+    color:white;
+    font-size: 24px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+h3 {
+    color:white;
+    font-family: 'Lobster', cursive;
+    text-decoration: underline;
+}
